@@ -1,6 +1,7 @@
-### Name: Lakshmen prashanth R
-### Reg no: 24007066
-### study-of-basic-gates
+### NAME: Lakshmen prashanth R
+### REG NO: 24007066
+### EXPERIMENT NO 1: STUDY-OF-BASIC-GATES
+
 
 ### AIM:
 
